@@ -46,20 +46,3 @@ a,
 a[href=""] {
   text-decoration: none;
 }
-
-.container {
-  width: 124rem;
-  max-width: 100%;
-  margin: 0rem auto;
-}
-@media (max-width: 1280px) {
-  .container {
-    padding: 0rem 10rem;
-  }
-}
-
-@media (max-width: 768px) {
-  .container {
-    padding: 0rem 4rem;
-  }
-}
